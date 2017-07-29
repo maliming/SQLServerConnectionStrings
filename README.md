@@ -1,5 +1,4 @@
 # SQLServerConnectionStrings
-SQL Server Connection Strings.
 
 [![NuGet](https://img.shields.io/nuget/vpre/SQLServerConnectionStrings.svg)](https://www.nuget.org/packages/SQLServerConnectionStrings)
 
