@@ -2,6 +2,10 @@
 
 [![NuGet](https://img.shields.io/nuget/vpre/SQLServerConnectionStrings.svg)](https://www.nuget.org/packages/SQLServerConnectionStrings)
 
+### Reference:
+[https://msdn.microsoft.com/en-gb/library/system.data.sqlclient.sqlconnection.connectionstring.aspx](https://msdn.microsoft.com/en-gb/library/system.data.sqlclient.sqlconnection.connectionstring.aspx)
+[https://msdn.microsoft.com/en-us/library/jj653752(v=vs.110).aspx](https://msdn.microsoft.com/en-us/library/jj653752(v=vs.110).aspx)
+
 ``` XML
 <?xml version="1.0"?>
 <configuration>
